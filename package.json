@@ -1,0 +1,30 @@
+{
+  "name": "mimosa-coco",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dbashford/mimosa-coco",
+  "author": "David Bashford",
+  "description": "A Coco compiler for Mimosa 2.0+",
+  "contributors": [
+    {
+      "name": "David Bashford",
+      "email": "dbashford@hotmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbashford/mimosa-coco"
+  },
+  "keywords": [
+    "mimosa",
+    "mmodule",
+    "coco"
+  ],
+  "dependencies": {
+    "coco": "0.9.1"
+  },
+  "license": "MIT",
+  "main": "./src",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
