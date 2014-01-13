@@ -17,6 +17,7 @@
   "keywords": [
     "mimosa",
     "mmodule",
+    "compiler",
     "coco"
   ],
   "dependencies": {
